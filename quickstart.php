@@ -10,6 +10,8 @@ define('SCOPES', implode(' ', array(
 ));
 
 /**
+ * Just checking if this will be pushed into the remote repo.
+ * 
  * Returns an authorized API client.
  * 
  * When the creation of the .json is created, it is essential the correct
