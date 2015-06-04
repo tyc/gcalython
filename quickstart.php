@@ -9,9 +9,7 @@ define('SCOPES', implode(' ', array(
 	Google_Service_Calendar::CALENDAR_READONLY)
 ));
 
-/**
- * Just checking if this will be pushed into the remote repo.
- * 
+/** 
  * Returns an authorized API client.
  * 
  * When the creation of the .json is created, it is essential the correct
